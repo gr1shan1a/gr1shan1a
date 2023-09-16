@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, my name's Grisha, I'm currently working on becoming a Java developer.<br>I study java with different resources. For instance, Stepik, JavaRush. <br>I read a book Horstmann "Java.Library of a professional". My goal is to master my skills in programming and become invaluable collaborator<br>
+Hi there, my name's **Grigory Kuranov(Григорий Куранов)**, I'm currently working on becoming a Java developer.<br>I study java with different resources. For instance, Stepik, JavaRush. <br>I read a book Horstmann "Java.Library of a professional". My goal is to master my skills in programming and become invaluable collaborator<br>
 
 
 ## 🌐 Socials:
