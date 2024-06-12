@@ -18,4 +18,7 @@ Hi there, my name's **Kuranov Grigory(Куранов Григорий)**, I'm cu
 ---
 [![](https://visitcount.itsvg.in/api?id=Grigory&icon=2&color=1)](https://visitcount.itsvg.in)
 
+[MY CV]()
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
