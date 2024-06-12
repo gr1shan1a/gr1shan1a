@@ -2,7 +2,7 @@
 ## <ins>Kuranov Grigory's profile</ins>
 Hi there, my name's **Kuranov Grigory(Куранов Григорий)**, I'm currently working on becoming a Java developer.<br>I study java with different resources. For instance, Stepik, JavaRush. <br>I read a book Horstmann "Java.Library of a professional". My goal is to master my skills in programming and become invaluable collaborator<br>
 
-[MY CV]()
+[MY CV](https://github.com/gr1shan1a/gr1shan1a/blob/main/CV-2.pdf)
 
 
 ## 🌐 Socials:
