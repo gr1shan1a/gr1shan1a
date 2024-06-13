@@ -32,20 +32,24 @@ _Problem-solver, competitive and active student with inquisitive mind_
 
 **Education**
 
-- St.P. SUAI 2027'
+- St.P. SUAI 2027'(5 year education), now finishing 2nd course
 
 - Faculty: Aerospace devices and computer systems
 - Specialist - lnformatics & Computer Science
+
+- Yadro student(SoC course) [spring 2024: march - may]
+
+- Yandex studcamp(SoftWare Development) [summer 2024]
+- Yandex Summer School participant 
 
 - Java. C++ projects:
 
   - Quizlet clone
   - ImageSaver(python)
   - small projects(telegram-bot, archiever)
+ 
+- MarsObserver -> currently working on the rovers software
 - Aigorithms and Data Structures
- - Graph algorithms
- - Search Trees
- - others
 ---
   **Skills**
 
