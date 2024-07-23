@@ -4,8 +4,9 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&labelColor=0088cc&logo=telegram&logoColor=white&link=https://t.me/Gr1shania)](https://t.me/Gr1shania)
 ![Visitors Badge](https://komarev.com/ghpvc/?username=gr1shan1a&style=flat-square&label=Visitors)
 
-### My name is Grigory, I'm a student from St. Petersburg, Russia.
-### Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO University](https://itmo.ru)
+My name is Grigory, I'm a student from St. Petersburg, Russia. 
+
+Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO University](https://itmo.ru)
 
 
 ## 🔧 Technologies and Languages
