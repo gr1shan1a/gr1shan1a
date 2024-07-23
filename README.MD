@@ -23,13 +23,9 @@
 
 
 ## 📊 GitHub Stats
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true)
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true) |
 |:-:|:-:|
 
-
-## 📫 How to reach me
-- Email: [368409@edu.itmo.ru](mailto:368409@edu.itmo.ru)
-- Telegram: [@Gr1shania](https://t.me/Gr1shania)
 
 ## 💪 Top projects:
 - [CoomputerGraphic_courseWork](https://github.com/gr1shan1a/VOR_courseWork)
