@@ -15,22 +15,12 @@
 
 
 ## 🔧 Technologies and Languages
-
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-
-
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-
+- Java ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+- C/C++ ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
+- Python ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
 
 ### Linux
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
@@ -38,15 +28,10 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 
-
-- Java
-- C/C++
-- Python
-
 ## 📊 GitHub Stats
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=dark&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&layout=compact&theme=dark&hide_border=true)
 |:-:|:-:|
-|https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&theme=blue-green|
+|![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&theme=blue-green) |
 
 
 ## 📫 How to reach me
