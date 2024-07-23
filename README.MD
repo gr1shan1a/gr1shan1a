@@ -6,8 +6,7 @@
 
 <p>
 
-
-  My name is Grigory, a student from St. Petersburg, Russia.
+  My name is Grigory, I'm a student from St. Petersburg, Russia.
   Currently studying **Computer Science** at [SUAI](https://guap.ru/en) and [ITMO University](https://itmo.ru)
 
 </p>
@@ -22,7 +21,7 @@ Here are some of the technologies and programming languages I work with:
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=dark&hide_border=true)
-
+|:-:|:-:|
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&layout=compact&theme=dark&hide_border=true)
 
 ## 📫 How to reach me
