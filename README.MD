@@ -23,8 +23,7 @@
 
 
 ## 📊 GitHub Stats
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true) |
-|:-:|:-:|
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true)
 
 
 ## 💪 Top projects:
