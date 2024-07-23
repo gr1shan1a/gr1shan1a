@@ -23,7 +23,7 @@
 
 
 ## 📊 GitHub Stats
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&layout=compact&theme=blue-green&hide_border=true)
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true)
 |:-:|:-:|
 
 
@@ -31,7 +31,7 @@
 - Email: [368409@edu.itmo.ru](mailto:368409@edu.itmo.ru)
 - Telegram: [@Gr1shania](https://t.me/Gr1shania)
 
-Top projects:
+## 💪 Top projects:
 - [CoomputerGraphic_courseWork](https://github.com/gr1shan1a/VOR_courseWork)
 - [Helm-chart: terraform-vault](https://github.com/gr1shan1a/CampITMO)
 - [Telegram-bot for saving images](https://github.com/gr1shan1a/TelegramBot_NASA)
