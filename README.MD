@@ -26,9 +26,11 @@ Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO Univ
 
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true)
+  <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true">
 </p>
+
 ---
 
 <p align="center">
