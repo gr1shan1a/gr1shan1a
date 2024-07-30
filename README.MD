@@ -28,6 +28,11 @@ Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO Univ
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true)
 
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sammorozov&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammorozov&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+
 
 ## 💪 Top projects:
 - [ComputerGraphic_courseWork](https://github.com/gr1shan1a/VOR_courseWork) - C++
