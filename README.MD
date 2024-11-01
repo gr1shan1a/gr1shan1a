@@ -9,6 +9,8 @@ My name is Grigory, I'm a student from St. Petersburg, Russia.
 
 Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO University](https://itmo.ru)
 
+Here's my organisation for studying [IMNJL](https://github.com/IMNJL)
+
 
 ## 🔧 Technologies and Languages
 - **Java** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white)  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
