@@ -27,7 +27,7 @@ Here's my organisation for studying [IMNJL](https://github.com/IMNJL)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Backend Academy - 
-<p align="center">
+<p align="left">
   <img width="120" height="40" src="https://cdn.tbank.ru/static/pfa-multimedia/images/1cd60db3-0dee-47a7-9d4a-0160d3da1e51.png"
 </p>
 
