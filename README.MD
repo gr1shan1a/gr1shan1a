@@ -33,16 +33,16 @@ Here's my organisation for studying [IMNJL](https://github.com/IMNJL)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="600" height="200" src="![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gr1shan1a&theme=blue-green&hide_border=true)
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=gr1shan1a&theme=dark)](https://git.io/streak-stats)
 
 ---
 
 <p align="center">
-  <img width="550" height="200" src="https://github-readme-stats.vercel.app/api?username=gr1shan1a&show_icons=true&theme=blue-green&hide_border=true">
-  <img width="340" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&size_weight=0.0005&count_weight=0.3&layout=compact&theme=blue-green&hide_border=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=gr1shan1a&show_icons=true&theme=blue-green&hide_border=true">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gr1shan1a&size_weight=0.0005&count_weight=0.3&layout=compact&theme=blue-green&hide_border=true">
 </p>
+
+[![Grigory's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gr1shan1a)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💪 Top projects:
