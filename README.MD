@@ -46,11 +46,5 @@ Here's my organisation for studying [IMNJL](https://github.com/IMNJL)
 ## 💪 Top projects:
 - [ComputerGraphic_courseWork](https://github.com/gr1shan1a/VOR_courseWork) - C++
 - [Helm-chart: terraform-vault](https://github.com/gr1shan1a/CampITMO) - DevOps Tools(Docker + Kubernetes + vault)
-- [Telegram-bot for saving images](https://github.com/gr1shan1a/TelegramBot_NASA) - Java
 - [Robocamp(YandexCamp - UrFU)](link) - python + C
-
-
-
-
-
-
+- [Telegram-bot for saving images](https://github.com/gr1shan1a/TelegramBot_NASA) - Java
