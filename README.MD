@@ -26,7 +26,7 @@ Here's my organisation for studying [IMNJL](https://github.com/IMNJL)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-### Backend Academy 2024
+### Backend Academy 2024-2025
 <p align="left">
   <img width="120" height="40" src="https://cdn.tbank.ru/static/pfa-multimedia/images/1cd60db3-0dee-47a7-9d4a-0160d3da1e51.png"
 </p>
