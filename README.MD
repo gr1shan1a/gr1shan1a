@@ -10,6 +10,7 @@ My name is Grigory, I'm a student from St. Petersburg, Russia.
 Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO University](https://itmo.ru)
 
 Here's my organisation for studying [IMNJL](https://github.com/IMNJL)
+
 ITMO and SUAI courses are here
 
 
