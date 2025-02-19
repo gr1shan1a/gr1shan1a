@@ -5,7 +5,7 @@
 ![Visitors Badge](https://komarev.com/ghpvc/?username=gr1shan1a&style=flat-square&label=Visitors)
 
 
-My name is Grigory, I'm a student from St. Petersburg, Russia.  
+My name is Grigory, I'm a student from St. Petersburg, Russia.
 
 Currently studying Computer Science at [SUAI](https://guap.ru/en) and [ITMO University](https://itmo.ru)
 
