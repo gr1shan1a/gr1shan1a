@@ -20,6 +20,7 @@ Here's my organisation for studying [IMNJL](https://github.com/IMNJL) : ITMO and
 ### Other tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
 ![MD](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+Obsidian 
 
 ### Linux
 ![CentOS](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
